@@ -98,9 +98,3 @@ with the cursor. The default is 0.
 <
 
 ---------------------------------------------------------------------------
-                                                *g:xcodehc_dim_punctuation*
-
-Set to 1 to dim punctuation (Delimiters and Operators). The default is 1.
->
-    let g:xcodehc_dim_punctuation = 1
-<
